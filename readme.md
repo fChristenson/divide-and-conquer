@@ -1,11 +1,5 @@
-# React demo
+# Divide and conquer
 
 ## What we will cover
 
-- 1
-- 2
-- 3
-
-## Notes
-
-Some notes
+- A story from work
