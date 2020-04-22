@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`showDialogV4 should show the BarDialog 1`] = `
+<Unknown
+  open={true}
+/>
+`;
+
+exports[`showDialogV4 should show the BazDialog 1`] = `
+<Unknown
+  open={true}
+/>
+`;
+
+exports[`showDialogV4 should show the FooDialog 1`] = `
+<Unknown
+  open={true}
+/>
+`;
+
+exports[`showDialogV4 should show undefined 1`] = `undefined`;
